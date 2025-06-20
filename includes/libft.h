@@ -6,7 +6,7 @@
 /*   By: diade-so <diade-so@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/15 14:39:49 by diade-so          #+#    #+#             */
-/*   Updated: 2025/06/19 15:09:03 by diade-so         ###   ########.fr       */
+/*   Updated: 2025/06/20 15:24:13 by diade-so         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,7 @@
 # include <stdint.h>
 # include <stdbool.h>
 # include <unistd.h>
+# include <colors.h>
 
 typedef struct s_list
 {
